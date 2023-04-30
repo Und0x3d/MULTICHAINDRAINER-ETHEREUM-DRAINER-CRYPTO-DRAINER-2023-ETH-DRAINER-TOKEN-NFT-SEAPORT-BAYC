@@ -5,7 +5,7 @@
 <p>We have worked with many influencial figures in the web3 space.</p>
 <img src="Downloads\temp1.jpg" /> 
 <p>This is one of many available templates</p>
-<p><strong>Features</strong></p>
+<p><h3>Features</strong></h3>
 
 ✅ - No API Keys 
 
