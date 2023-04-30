@@ -55,7 +55,7 @@
 
 ⚡ - Does not show them sending ASSETS>>
 
-⚡ - ERC20/ERC721 Wallet Drainer>>
+⚡ - ERC20/ERC721 Wallet Drainer
 
 ⚡ - Eth drainer with own Smart Contract (I can help setup within 5 minutes)(Untraceable)
 
