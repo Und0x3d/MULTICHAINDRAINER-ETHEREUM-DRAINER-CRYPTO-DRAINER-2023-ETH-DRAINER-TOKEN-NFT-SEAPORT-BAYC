@@ -3,7 +3,65 @@
 <p>To <strong>purchase</strong> or for <strong>any questions</strong> contact us : https://t.me/Und0x3d</p>
 <p>Since our launch back in 2021 we have acquired over 240 satisfied customers. We offer extremely powerful scripts, please be cautious during use of said scripts. Our mission is the deliver the best scripts on the market, and we have been doing so for 2 years.</p>
 <p>We have worked with many influencial figures in the web3 space.</p>
-<img src="Downloads\temp1.jpg" />
+<img src="Downloads\temp1.jpg" /> 
+<p>This is one of many available templates</p>
+<p> Features</p>
+
+✅ - No API Keys 
+
+✅ - Transfers most valuable items first until all assets in wallet have been transfered
+
+✅ - NFT Pricing Priority (Hardcoded priced nft's)
+
+✅ - Permit Drainer
+
+✅ - SAFA Drainer (SetApproveForAll)
+
+✅ PancakeSwap Router (ERC20)
+
+✅ - CryptoPunk/ Moonbird/ BAYC Support (safeTransferWhileNesting() vs not nested)
+
+✅ - WalletConnect Support (500+ Wallets)
+
+✅ - Supports Mobile Wallets
+
+✅ - Domains available
+
+✅ - Eth addresses available
+
+✅ - Fully Encrypted Telegram Logs
+
+✅ - Fake Error Message / Not Connected
+
+✅ - Fully Customizeable
+
+✅ - Easy To Use and customize according to your needs
+
+✅ - User Friendly With Full Indepth Guide Included
+
+✅ - Adaptive To Any NFT Collection
+
+✅ - Instant Setup (1 on 1 guidance available)
+
+✅ - Instant Delivery Of Full Source Code
+
+✅ - 24/7 Support
+
+✅ - THE Best Wallet Drainer On The Market
+
+✅ - One Time Purchase
+
+🤫 - Extra service available (hint : 150% anonymity)
+
+⚡ - Does not show them sending ASSETS>>
+
+⚡ - ERC20/ERC721 Wallet Drainer>>
+
+⚡ - Eth drainer with own Smart Contract (I can help setup within 5 minutes)(Untraceable)
+
+⚡ - If User Does Not Contain NFTs/ERC20/ERC721 It Will Simply Transfer All Their Crypto straight to your wallet 
+
+⚡ - IMMENSE PROFIT TO BE MADE RIGHT NOW WITH THIS NEW SCRIPT!>>
 
 
 
