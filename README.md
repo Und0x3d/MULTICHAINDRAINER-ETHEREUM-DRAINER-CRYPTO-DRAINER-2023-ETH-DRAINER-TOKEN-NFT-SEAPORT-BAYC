@@ -3,7 +3,7 @@
 <p>To <strong>purchase</strong> or for <strong>any questions</strong> contact us on : <a href="https://t.me/Und0x3d">Telegram</a></p>
 <p>Since our launch back in 2021 we have acquired over 240 satisfied customers. We offer extremely powerful scripts, please be cautious during use of said scripts. Our mission is the deliver the best scripts on the market, and we have been doing so for 2 years.</p>
 <p>We have worked with many influencial figures in the web3 space.</p>
-<img=src"desktop/temp1.jpg" />
+<img src="desktop\temp1.jpg" />
 <p>This is one of many available templates</p>
 <p><h4>Features</strong></h4>
 
