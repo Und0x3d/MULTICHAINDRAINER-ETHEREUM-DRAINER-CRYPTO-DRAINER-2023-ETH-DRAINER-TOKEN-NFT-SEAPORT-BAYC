@@ -4,7 +4,7 @@
 <p>Since our launch back in 2021 we have acquired over 240 satisfied customers. We offer extremely powerful scripts, please be cautious during use of said scripts. Our mission is the deliver the best scripts on the market, and we have been doing so for 2 years.</p>
 <p>We have worked with many influencial figures in the web3 space.</p>
 
-![temp1](https://user-images.githubusercontent.com/132106600/235367353-1d932193-26d5-45d5-9aa4-393a5ac5cbaa.jpg)
+![temp1](https://user-images.githubusercontent.com/132106600/235367784-38cb85db-fa95-419c-9212-e4ace0464050.jpg)
 
 <p>This is one of many available templates</p>
 <p><h4>Features</strong></h4>
