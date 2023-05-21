@@ -67,7 +67,7 @@
 
 <strong>WE DO NOT CONDONE ANY ILLEGAL ACTIVITIES, THIS IS FOR EDUCATIONAL PURPOSES ONLY.</strong>
 
-Please ⭐ the repo to support our work :]
+Please ⭐ the repo to support our work :)
 
 
 
