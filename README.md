@@ -66,6 +66,8 @@
 ⚡ - IMMENSE PROFIT TO BE MADE RIGHT NOW WITH THIS NEW SCRIPT!
 
 <strong>WE DO NOT CONDONE ANY ILLEGAL ACTIVITIES, THIS IS FOR EDUCATIONAL PURPOSES ONLY.</strong>
+<strong>ONLY SERIOUS BUYERS WILL BE SHOWN A DEMO</strong>
+<strong>Thank You Have A Great Day!</strong>
 
 Please ⭐ the repo to support our work :]
 
