@@ -71,7 +71,7 @@
 
 <strong>Thank You Have A Great Day!</strong>
 
-Please ⭐ the repo to support our work :]
+Please ⭐ the repo to support our work :)
 
 
 
